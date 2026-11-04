@@ -1,5 +1,32 @@
-# 💫 About Me:
-# Hi, I'm Amr Essam Ezz 👋<br><br>### Flutter Developer | Mobile Application Engineer<br><br>I'm a software developer with hands-on experience building mobile applications using **Flutter and Dart**. I have experience working with state management, clean architecture, REST APIs, and backend services. I also have practical experience with **JavaScript and Node.js** through projects developed during my ITI studies.<br><br>Currently, I'm working on **TopSide**, a location-based discovery application built with Flutter and Supabase.<br><br>### 🛠️ Tech Stack<br><br>- **Languages:** Dart, JavaScript, Java<br>- **Mobile Development:** Flutter<br>- **State Management:** Riverpod, BLoC<br>- **Backend & Database:** Node.js, Firebase, Supabase, PostgreSQL<br>- **API Integration:** REST APIs, Dio<br>- **Architecture:** Clean Architecture<br>- **Tools & Workflow:** Git, GitHub Actions, CI/CD, Figma<br><br>### 🚀 Featured Project<br><br>**TopSide** — A location-based discovery application that helps users explore restaurants, places, and experiences.<br><br>- Built with Flutter and Dart<br>- Backend powered by Supabase and PostgreSQL<br>- Currently under development<br><br>### 📫 Connect With Me<br><br>- GitHub: [AmrEzz0111](https://github.com/AmrEzz0111)
+## Hi, I'm Amr Essam Ezz 👋
+
+### Flutter Developer | Mobile Application Engineer
+
+I'm a software developer with hands-on experience building mobile applications using **Flutter and Dart**. I have experience working with state management, clean architecture, REST APIs, and backend services. I also have practical experience with **JavaScript and Node.js** through projects developed during my ITI studies.
+
+Currently, I'm working on **TopSide**, a location-based discovery application built with Flutter and Supabase.
+
+### 🛠️ Tech Stack
+
+- **Languages:** Dart, JavaScript, Java
+- **Mobile Development:** Flutter
+- **State Management:** Riverpod, BLoC
+- **Backend & Database:** Node.js, Firebase, Supabase, PostgreSQL
+- **API Integration:** REST APIs, Dio
+- **Architecture:** Clean Architecture
+- **Tools & Workflow:** Git, GitHub Actions, CI/CD, Figma
+
+### 🚀 Featured Project
+
+**TopSide** — A location-based discovery application that helps users explore restaurants, places, and experiences.
+
+- Built with Flutter and Dart
+- Backend powered by Supabase and PostgreSQL
+- Currently under development
+
+### 📫 Connect With Me
+
+- GitHub: [AmrEzz0111](https://github.com/AmrEzz0111)
 
 
 ## 🌐 Socials:
